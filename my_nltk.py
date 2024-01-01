@@ -1,4 +1,3 @@
-
 import numpy as np
 import nltk
 from nltk.stem.porter import PorterStemmer
@@ -43,4 +42,4 @@ def bag_of_words(tokenized_sentence, words):
         if w in sentence_words: 
             bag[idx] = 1
 
-   return bag
+    return bag
