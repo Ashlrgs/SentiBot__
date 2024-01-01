@@ -1,8 +1,0 @@
-node_modules/
-Lib/site-packages/tensorflow/python/_pywrap_tensorflow_internal.pyd
-
-Lib/site-packages/torch/lib/dnnl.lib
-
-Lib/site-packages/torch/lib/mkldnn.lib
-
-Lib/site-packages/torch/lib/torch_cpu.dll
