@@ -27,5 +27,8 @@ Features
 
 Chat Interface: Engage in a natural language conversation with the chatbot to get personalized song recommendations.
 Song Recommendations: Receive tailored song suggestions based on your preferences and queries.
-Neural Network Model: The recommendation engine uses a Neural Network model to analyze user inputs and provide accurate and relevant song suggestions.
- 
+Neural Network Model:  recommendation engine uses a Neural Network model to analyze user inputs and provide accurate and relevant song suggestions.
+The![Screenshot (63)](https://github.com/Ashlrgs/Chatbot-Song-Recommender/assets/117961272/88b157c7-71c8-4ceb-b9cd-7abac3166a58)
+
+ ![Uploading Screenshot (75).png…]()
+
