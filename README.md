@@ -14,7 +14,7 @@ Table of Contents
 Overview
 
 
-This project implements a Chatbot Song Recommender System, utilizing natural language processing to recommend songs based on user input. The system employs a Neural Network model for song recommendations.
+This project implements a Chatbot Song Recommender System, utilizing natural language processing to recommend songs based on user input. The system employs a Neural Network model for song recommendations. Analyzing sentiments of users and suggesting song based on their sentiment mood .
 
 
 
