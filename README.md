@@ -1,4 +1,4 @@
-# Chatbot-Song Recommender
+# SentiBot : A Chatbot for Music Recommendation
 
 Table of Contents
 
