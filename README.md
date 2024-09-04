@@ -1,42 +1,29 @@
-# SentiBot : A Chatbot for Music Recommendation
+# SentiBot: A Chatbot for Music Recommendation
 
-Table of Contents
+## Problem Definition
+In today's digital age, music streaming services offer vast libraries, making it overwhelming for users to find songs that resonate with their current mood or preferences. SentiBot addresses this issue by providing a personalized music recommendation service, helping users discover music that matches their emotional state.
 
-1)Overview
+## Project Overview
+The project **"SentiBot: A Chatbot for Music Recommendation"** is an intelligent chatbot designed to recommend music to users based on their mood and preferences. The goal is to create a personalized and engaging experience where the chatbot can understand the user's emotional state, suggest songs that align with their mood, and continuously improve its recommendations by learning from user interactions.
 
-2)features
+## Key Objectives
 
-3)Built With
+1. **Mood Identification:** The chatbot identifies the user's mood by analyzing the tone of their text through Natural Language Processing (NLP) techniques and sentiment analysis.
+2. **Music Recommendation:** Based on the identified mood, the chatbot recommends songs by integrating with music databases like Last.fm via APIs.
+3. **Personalization:** The chatbot tailors its recommendations according to the user’s preferences, listening history, and mood.
+4. **User Engagement:** SentiBot engages in casual conversations to make the interaction more enjoyable, creating a more personalized user experience.
+5. **Adaptation:** Over time, the chatbot learns from user feedback to refine its music recommendations, evolving with the user's changing tastes.
 
-4)Usage
+## Technology Stack Used
+1. **Natural Language Processing (NLP)**
+2. **Machine Learning**
+3. **API Integration**
+4. **Data Management**
+5. **Web Technologies**
 
+The chatbot successfully identifies user moods and provides relevant music recommendations, enhancing the user's music discovery experience.
 
-Overview
+## Demo Video
 
-
-This project implements a Chatbot Song Recommender System, utilizing natural language processing to recommend songs based on user input. The system employs a Neural Network model for song recommendations. Analyzing sentiments of users and suggesting song based on their sentiment mood .
-
-
-
-
-Features
-
-
-Chat Interface: Engage in a natural language conversation with the chatbot to get personalized song recommendations.
-Song Recommendations: Receive tailored song suggestions based on your preferences and queries.
-Neural Network Model:  recommendation engine uses a Neural Network model to analyze user inputs and provide accurate and relevant song suggestions.
-
-Built With
-
-1)User Interface - html,css,javascript
-
-2)Emotional Analysis - Textblob Library
-
-3)Songs Recommendation - Last.fm songs API
-
-4)frontend-integration - flask
-
-
-youtube link : soon
-
+[![SentiBot Demo](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 
