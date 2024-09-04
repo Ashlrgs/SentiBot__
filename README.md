@@ -4,7 +4,11 @@
 In today's digital age, music streaming services offer vast libraries, making it overwhelming for users to find songs that resonate with their current mood or preferences. SentiBot addresses this issue by providing a personalized music recommendation service, helping users discover music that matches their emotional state.
 
 ## Demo Video
-  https://github.com/Ashlrgs/SentiBot__/blob/main/SENTIBOT.mp4
+  
+
+https://github.com/user-attachments/assets/29dedbbc-c923-4664-870b-ca61cfecf295
+
+
 
 </video>
 
