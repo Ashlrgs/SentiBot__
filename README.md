@@ -6,7 +6,7 @@ In today's digital age, music streaming services offer vast libraries, making it
 ## Demo Video
 
 <video width="640" height="360" controls>
-  <source src="path/to/your/video.mp4" type="video/mp4">
+  <source src="[path/to/your/video.mp4](https://github.com/Ashlrgs/SentiBot__/blob/main/SENTIBOT.mp4)" type="video/mp4">
 
 </video>
 
