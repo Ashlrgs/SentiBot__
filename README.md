@@ -5,7 +5,10 @@ In today's digital age, music streaming services offer vast libraries, making it
 
 ## Demo Video
 
-[![SentiBot Demo]](https://www.youtube.com/watch?v=VIDEO_ID)
+<video width="640" height="360" controls>
+  <source src="path/to/your/video.mp4" type="video/mp4">
+
+</video>
 
 ## Project Overview
 The project **"SentiBot: A Chatbot for Music Recommendation"** is an intelligent chatbot designed to recommend music to users based on their mood and preferences. The goal is to create a personalized and engaging experience where the chatbot can understand the user's emotional state, suggest songs that align with their mood, and continuously improve its recommendations by learning from user interactions.
