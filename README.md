@@ -26,7 +26,6 @@ The project **"SentiBot: A Chatbot for Music Recommendation"** is an intelligent
 4. **Data Management**
 5. **Web Technologies**
 
-The chatbot successfully identifies user moods and provides relevant music recommendations, enhancing the user's music discovery experience.
-
+Conclusion : Sentibot aims to improve the music discovery experience by analyzing the user's mood using natural language processing and sentiment analysis. It offers personalized music recommendations that align with the user's emotions and engages in meaningful conversations to create a more enjoyable and customized interaction.
 
 
